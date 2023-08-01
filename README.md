@@ -1,7 +1,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<h3 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Alexey</a>. Java backend developer.</h3>
-<h4 align="center">Java backend developer</h4>
+<h3 align="center">Hi there, I'm Alexey. Java backend developer.</h3>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin)](https://github.com/anuraghazra/github-readme-stats)
 
