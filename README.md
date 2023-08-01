@@ -3,7 +3,7 @@
 <h3 align="center">Hi there, I'm Alexey. Java backend developer.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin&show_icons=true&theme=dracula)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
