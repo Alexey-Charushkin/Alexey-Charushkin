@@ -2,7 +2,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 <h3 align="center">Hi there, I'm Alexey. Java backend developer.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin&show_icons=true&theme=dracula)
+<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin&show_icons=true&theme=dracula)</h3>
 
 
 
