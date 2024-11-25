@@ -1,6 +1,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<h3 align="left">Hi there, I'm Alexey. Java backend developer.</h3>
+<h3 align="left">Hi there, I'm Alexey. Java backend developer. I love writing code.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexey-Charushkin&show_icons=true&theme=dracula)
 
